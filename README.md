@@ -1,2 +1,8 @@
 # creazyideas.github.io
-creazyideas's blog
+AI学习成长之路
+
+1、RNN 简单循环神经网络中隐藏单元的问题
+
+隐藏单元都是依赖于前项的，这样叠加的依赖 对长短记忆的依赖有多大帮助，是不是信息过于重叠了？
+
+2、后面才有GRU/LSTM
